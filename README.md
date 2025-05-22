@@ -4,7 +4,7 @@ Project Category: Advanced
 
 
 ## Overview
-This project involves analysing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalising a denormalised dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimising query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
+This project involves analysing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalising a denormalised dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimising query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset. The dataset includes more than 20,000 data records.
 
 ```sql
 -- create table
